@@ -1,0 +1,9 @@
+﻿  Blends.cpp
+  Main.cpp
+  Generating Code...
+Blends.obj : error LNK2005: "public: static struct Image::Rgb const Image::kBlack" (?kBlack@Image@@2URgb@1@B) already defined in Main.obj
+Blends.obj : error LNK2005: "public: static struct Image::Rgb const Image::kWhite" (?kWhite@Image@@2URgb@1@B) already defined in Main.obj
+Blends.obj : error LNK2005: "public: static struct Image::Rgb const Image::kRed" (?kRed@Image@@2URgb@1@B) already defined in Main.obj
+Blends.obj : error LNK2005: "public: static struct Image::Rgb const Image::kGreen" (?kGreen@Image@@2URgb@1@B) already defined in Main.obj
+Blends.obj : error LNK2005: "public: static struct Image::Rgb const Image::kBlue" (?kBlue@Image@@2URgb@1@B) already defined in Main.obj
+C:\Users\user\source\repos\OOP\Debug\OOP.exe : fatal error LNK1169: one or more multiply defined symbols found
